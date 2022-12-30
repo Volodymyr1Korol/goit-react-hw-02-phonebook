@@ -8,9 +8,10 @@
 h1 {
   text-align: center;
 }
+
 .container {
   margin: 0 auto;
-  background-color: lightgray;
+  background-color: rgb(132, 158, 125);
   padding: 15px 20px;
   border-radius: 20px;
 }
